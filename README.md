@@ -423,31 +423,7 @@ The service files handle all database interactions, keeping the UI components cl
 
 ---
 
-## 7. Authentication {#7-authentication}
 
-### Coming in Part 3
-
-Authentication features will include:
-- User registration
-- Email/password login
-- OAuth providers
-- Session management
-- Protected routes
-
----
-
-## 8. Deployment and Publishing {#8-deployment}
-
-### Coming in Part 4
-
-Deployment topics will cover:
-- Building for production
-- App store submission
-- Play Store submission
-- Continuous Integration/Deployment
-- Version management
-
----
 
 ## 🚀 Getting Started
 
