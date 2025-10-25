@@ -1,0 +1,50 @@
+# Environment variables
+.env
+.env.local
+
+# React Native
+react-native/NotesApp/node_modules/
+react-native/NotesApp/.expo/
+react-native/NotesApp/.expo-shared/
+react-native/NotesApp/dist/
+react-native/NotesApp/npm-debug.*
+react-native/NotesApp/*.jks
+react-native/NotesApp/*.p8
+react-native/NotesApp/*.p12
+react-native/NotesApp/*.key
+react-native/NotesApp/*.mobileprovision
+react-native/NotesApp/*.orig.*
+react-native/NotesApp/web-build/
+react-native/NotesApp/assets/
+
+# Flutter
+flutter/notes_app/.dart_tool/
+flutter/notes_app/.flutter-plugins
+flutter/notes_app/.flutter-plugins-dependencies
+flutter/notes_app/.packages
+flutter/notes_app/.pub-cache/
+flutter/notes_app/.pub/
+flutter/notes_app/build/
+flutter/notes_app/android/app/upload-keystore.jks
+flutter/notes_app/android/key.properties
+flutter/notes_app/ios/Flutter/.last_build_id
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# Test coverage
+coverage/
