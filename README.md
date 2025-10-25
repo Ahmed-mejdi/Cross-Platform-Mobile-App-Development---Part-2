@@ -18,8 +18,7 @@ Welcome to this comprehensive tutorial that teaches both **React Native** and **
 4. [UI Components and Styling](#4-ui-components-and-styling)
 5. [Building the Notes App](#5-building-the-notes-app)
 6. [Database Integration with Appwrite](#6-database-integration)
-7. [Authentication](#7-authentication)
-8. [Deployment and Publishing](#8-deployment)
+
 
 ---
 
